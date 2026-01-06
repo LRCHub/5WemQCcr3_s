@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "誰もいない絵で",
+  "base_artist": "ヰ世界情緒",
+  "createdAt": "2026-01-06T09:06:21.584716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誰もいない絵で",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/01_誰もいない絵で_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰もいない絵で",
+      "artist": "ヰ世界情緒",
+      "has_synced": false,
+      "path": "select/pl_01_誰もいない絵で_ヰ世界情緒.txt"
+    }
+  ]
+}
